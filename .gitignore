@@ -1,0 +1,2 @@
+# ignoramos el archivo de llave de firebase para el proyecto, ya que es unico para mi cuenta personal
+./app/firebase.js
